@@ -51,6 +51,8 @@ click it, and the finished command is already in your clipboard.
 
 The build is unsigned, so SmartScreen warns once: **More info → Run anyway**. The first start can take a few seconds while your antivirus scans it.
 
+![preview](give-finder.png)
+
 ## Legal
 
 Not an official Minecraft product. Not approved by or associated with Mojang Studios or Microsoft.
